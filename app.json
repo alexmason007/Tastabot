@@ -34,7 +34,7 @@
       "SQLALCHEMY_DATABASE_URI": {
          "description": "Your postgres sql db, empty this field if you dont have one.",
          "required": false,
-         "value": "sqldbtype://username:pw@hostname:port/db_name"
+         "value": "sqldbtype://usernamdeprecatedbote:pw@hostname:port/db_name"
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
@@ -119,5 +119,5 @@
       "Saitama"
    ],
    "name": "Saitama Robot",
-   "repository": "https://github.com/alexmason007/SaitamaRobot"
+   "repository": "https://github.com/Tastabot/SaitamaRobot"
 }
